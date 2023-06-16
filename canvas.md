@@ -1,17 +1,31 @@
-# Modelo Canvas
+# Modelo Canvas para una solución tecnológica de gestión de residuos
 
-| Segmentos de clientes | Propuesta de valor | Canales |
-| --- | --- | --- |
-| - Usuarios que buscan ofertas online | - Ofertas exclusivas y limitadas en tiempo | - Plataforma web y móvil |
-| - Empresas que quieren vender sus productos o servicios a un público amplio | - Acceso a una gran base de clientes potenciales | - Email marketing y redes sociales |
+## Segmento de clientes
 
-| Relaciones con los clientes | Fuentes de ingresos | Recursos clave |
-| --- | --- | --- |
-| - Atención al cliente personalizada | - Comisión por cada venta realizada a través del marketplace | - Equipo de desarrollo y diseño |
-| - Comunidad online de usuarios y empresas | - Publicidad en la plataforma | - Acuerdos con empresas proveedoras |
+- **Personas que generan residuos orgánicos o inorgánicos y quieren darles un mejor uso.** Estas personas tienen conciencia ecológica y quieren evitar que sus residuos terminen en el vertedero o en la incineradora. Buscan opciones para reutilizar, reciclar o compostar sus residuos, o para venderlos a otras personas que puedan aprovecharlos.
+- **Personas que buscan productos de segunda mano o reciclados a bajo precio.** Estas personas quieren ahorrar dinero y contribuir al medio ambiente comprando productos que ya han sido usados o que han sido fabricados con materiales reciclados. Buscan productos de calidad, originales y asequibles, que satisfagan sus necesidades o gustos.
+- **Empresas o instituciones que necesitan gestionar sus residuos de forma eficiente y sostenible.** Estas entidades generan grandes cantidades de residuos y tienen la obligación legal o moral de reducir su impacto ambiental. Buscan soluciones que les permitan optimizar sus procesos de gestión de residuos, reducir sus costes y generar ingresos adicionales.
 
-| Actividades clave | Socios clave | Estructura de costes |
-| --- | --- | --- |
-| - Desarrollar y mantener la plataforma web, móvil y chat| - Empresas proveedoras de productos o servicios | - Costes de desarrollo y mantenimiento |
-| - Generar y gestionar las ofertas | - Plataformas de pago online | - Costes de marketing y publicidad |
-| - Promocionar la plataforma y las ofertas | - Asociaciones con medios de comunicación o influencers | - Costes de personal |
+## Propuesta de valor
+
+- **Ofrecer una plataforma que conecta a vendedores y compradores de residuos, facilitando el intercambio y el pago.** La plataforma permite a los usuarios publicar anuncios de los residuos que quieren vender, indicando el tipo, la cantidad, el precio y la ubicación. También permite a los usuarios buscar y comprar los residuos que les interesen, filtrando por categoría, precio, distancia o valoración del vendedor. La plataforma se encarga de gestionar el pago seguro entre las partes y de ofrecer opciones de envío o recogida.
+- **Promover una economía circular y reducir el impacto ambiental de los residuos.** La plataforma contribuye a alargar la vida útil de los materiales y a evitar que se desperdicien recursos. También ayuda a reducir las emisiones de gases de efecto invernadero y la contaminación asociadas a la producción, el transporte y el tratamiento de los residuos. Además, la plataforma genera conciencia ecológica entre los usuarios y les incentiva a adoptar hábitos más sostenibles.
+- **Brindar información y consejos sobre cómo reducir, reutilizar y reciclar los residuos.** La plataforma ofrece contenido educativo e informativo sobre los beneficios ambientales, sociales y económicos de la gestión responsable de los residuos. También ofrece consejos prácticos sobre cómo generar menos residuos, cómo separarlos correctamente, cómo transformarlos en nuevos productos o cómo donarlos a organizaciones benéficas.
+
+## Canales
+
+- **Una aplicación móvil y web que permite publicar, buscar y comprar productos hechos con residuos.** La aplicación es el canal principal para acceder a la plataforma y realizar las transacciones. La aplicación tiene un diseño intuitivo, atractivo y fácil de usar, que se adapta a diferentes dispositivos y sistemas operativos. La aplicación también permite crear un perfil de usuario, ver el historial de compras y ventas, enviar mensajes privados, recibir notificaciones y compartir experiencias en redes sociales.
+- **Redes sociales, blogs y podcasts para difundir el concepto y atraer a más usuarios.** La plataforma utiliza diferentes medios digitales para comunicarse con su público objetivo y generar interés por su propuesta. La plataforma crea contenido relevante, original y divertido sobre temas relacionados con la gestión de residuos, la economía circular y el consumo responsable. La plataforma también interactúa con su comunidad, responde a sus dudas, solicita su opinión y les invita a participar en concursos o sorteos.
+- **Alianzas con organizaciones ambientales, municipios y empresas que apoyen la iniciativa.** La plataforma establece relaciones estratégicas con otros actores que comparten su visión y misión. La plataforma colabora con organizaciones ambientales para apoyar sus causas, difundir sus campañas y recibir su asesoramiento. La plataforma también se coordina con municipios para integrarse en sus planes de gestión de residuos, ofrecer incentivos fiscales o facilitar infraestructuras. La plataforma también se asocia con empresas que quieran mejorar su responsabilidad social corporativa, patrocinar sus actividades o proveer sus servicios.
+
+## Relación con clientes
+
+- **Crear una comunidad de usuarios comprometidos con el medio ambiente y el consumo responsable.** La plataforma busca fidelizar a sus usuarios y convertirlos en embajadores de su marca. La plataforma les ofrece una experiencia positiva, segura y satisfactoria, que les haga sentir parte de un movimiento social y ambiental. La plataforma también les reconoce su contribución, les premia con puntos o descuentos y les anima a invitar a sus amigos o familiares.
+- **Ofrecer un servicio de atención al cliente personalizado y eficaz.** La plataforma se preocupa por resolver las necesidades, problemas o quejas de sus usuarios de forma rápida y profesional. La plataforma dispone de diferentes canales de contacto, como teléfono, correo electrónico o chat en vivo, que están disponibles las 24 horas del día y los 7 días de la semana. La plataforma también cuenta con un equipo de expertos, amables y empáticos, que ofrecen soluciones adecuadas y personalizadas a cada caso.
+- **Fomentar la confianza y la transparencia entre los usuarios mediante un sistema de calificación y comentarios.** La plataforma quiere garantizar la calidad y la seguridad de los productos y los servicios que se ofrecen en su plataforma. La plataforma permite a los usuarios valorar y opinar sobre su experiencia con los vendedores o los compradores, así como reportar cualquier incidencia o fraude. La plataforma también verifica la identidad y la reputación de los usuarios, así como la veracidad y la legalidad de los anuncios.
+
+## Fuente de ingresos
+
+- **Cobrar una comisión por cada transacción realizada en la plataforma.** La plataforma genera ingresos por cada venta o compra que se realiza en su plataforma. La plataforma cobra un porcentaje del precio final del producto, que puede variar según la categoría, el valor o el volumen del mismo. La plataforma también cobra una tarifa fija por el uso de sus servicios de pago o envío.
+- **Ofrecer planes de suscripción premium con beneficios adicionales, como descuentos, envíos gratis o acceso a productos exclusivos.** La plataforma ofrece la posibilidad de contratar planes de suscripción mensuales o anuales que otorgan ventajas adicionales a los usuarios. Estos planes pueden ser para vendedores o compradores, y pueden incluir descuentos en las comisiones o las tarifas, envíos gratuitos o ilimitados, acceso a productos exclusivos o destacados, mayor visibilidad en la plataforma o atención preferente.
+- **Generar ingresos por publicidad de empresas o productos relacionados con el tema.** La plataforma genera ingresos por mostrar anuncios de empresas o productos que estén relacionados con el tema de la gestión de residuos, la economía circular o el consumo responsable. Estos anuncios pueden aparecer en la aplicación, en la web o en los medios digitales de la plataforma. La plataforma cobra por el número de impresiones, clics o conversiones que generen estos anuncios.
