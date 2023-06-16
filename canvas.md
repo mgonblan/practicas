@@ -12,6 +12,6 @@
 
 | Actividades clave | Socios clave | Estructura de costes |
 | --- | --- | --- |
-| - Desarrollar y mantener la plataforma web y móvil | - Empresas proveedoras de productos o servicios | - Costes de desarrollo y mantenimiento |
+| - Desarrollar y mantener la plataforma web, móvil y chat| - Empresas proveedoras de productos o servicios | - Costes de desarrollo y mantenimiento |
 | - Generar y gestionar las ofertas | - Plataformas de pago online | - Costes de marketing y publicidad |
 | - Promocionar la plataforma y las ofertas | - Asociaciones con medios de comunicación o influencers | - Costes de personal |
