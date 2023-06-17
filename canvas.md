@@ -1,6 +1,4 @@
-Claro, te muestro el modelo Canvas completo con todos los cambios que hemos hecho:
-
-# Modelo Canvas para una solución tecnológica de gestión de residuos
+# Modelo Canvas para CholloExpress
 
 ## Segmento de clientes
 
